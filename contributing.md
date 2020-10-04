@@ -30,6 +30,7 @@ Hi my name is Suryansu and I am a tech-enthusiast.
 - Hi, I'm Rupesh Mishra and this is my first time participation in HacktoberFest
 
 - Hi all! I am glad to be able to contribute to this for this HacktoberFest :)
+- HI everyone! i am very happy to be a contributor of Hacktoberfest!!
 
 
 - Hi, I'm Subham Nanda and this is my first time participation in HacktoberFest.
